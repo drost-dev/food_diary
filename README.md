@@ -1,16 +1,13 @@
-# food_diary_app
+# Пищевой дневник
 
-A new Flutter project.
+Приложение, которое поможет вам вести дневник питания и составлять персональное меню в короткие сроки.
 
-## Getting Started
+## Общая функциональность
 
-This project is a starting point for a Flutter application.
+Вас встретит карточка выбранного дня, в которой вы сможете добавлять, удалять и редактировать ваше меню на день. Вы можете перемещаться между карточками дней с помощью стрелок вверху.
+Здесь вы можете добавить прием пищи, который вы также можете редактировать как вам удобно, в том числе - изменять его состав по вашему желанию.
+Для каждого элемента вплоть от блюда и до карточки дня предусмотрен счетчик питательных веществ и калорий - самая полезная функция, ради которой стоит попробовать наше приложение.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Гибкость настройки
+В приложении реализовано создание собственных продуктов и блюд, что делает его очень гибким в повседневном использовании и удобным для подробного ведения дневника вашего питания.
+Также, вы можете загрузить изображение для созданных элементов.
